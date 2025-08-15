@@ -10,6 +10,3 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Musings of a computer nerd."
-
-["params.author"]
-name = "Sumedh Girish"
