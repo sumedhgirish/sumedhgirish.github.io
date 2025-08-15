@@ -20,6 +20,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 defaultBackgroundImage = "cat-vibin.png"
+defaultFeaturedImage = "."
 
 [header]
 layout = "fixed-fill-blur"
@@ -32,9 +33,9 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = false
-showRecentItems = 5
+layout = "background"
+showRecent = true
+showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
@@ -62,7 +63,7 @@ showHeadingAnchors = true
 showPagination = false
 invertPagination = false
 showReadingTime = false
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
 showCategoryOnly = false
 showAuthorsBadges = false
