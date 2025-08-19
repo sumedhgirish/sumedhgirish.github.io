@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Layer Zero</title>
-    <link>sumedhgirish.github.io/authors/</link>
+    <link>//localhost:1313/authors/</link>
     <description>Recent content in Authors on Layer Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <atom:link href="sumedhgirish.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Sumedh Girish</copyright>
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

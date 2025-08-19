@@ -19,7 +19,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "cat-vibin.png"
+defaultBackgroundImage = "img/traffic.svg"
 defaultFeaturedImage = "."
 
 [header]
@@ -40,9 +40,9 @@ showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "cat-vibin.png"
+homepageImage = "img/traffic.svg"
 
 [article]
 showDate = true
@@ -51,7 +51,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false

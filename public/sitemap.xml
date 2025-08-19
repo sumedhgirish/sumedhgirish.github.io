@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>sumedhgirish.github.io/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>sumedhgirish.github.io/projects/virtualizing-containers/</loc>
+    <loc>//localhost:1313/projects/virtualizing-containers/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>sumedhgirish.github.io/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
