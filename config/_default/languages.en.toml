@@ -17,5 +17,5 @@ name = "Sumedh Girish"
 image = "profile_picture.jpg"
 headline = "Your friendly neighbourhood aspiring Computer Scientist"
 links = [
-    { github = "github.com/sumedhgirish" }
+    { github = "https://www.github.com/sumedhgirish" }
 ]
