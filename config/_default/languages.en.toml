@@ -16,6 +16,7 @@ description = "Musings of a computer nerd."
 name = "Sumedh Girish"
 image = "profile_picture.jpg"
 headline = "Your friendly neighbourhood aspiring Computer Scientist"
+email = "sumedh.girish@gmail.com"
 links = [
     { github = "https://www.github.com/sumedhgirish" }
 ]

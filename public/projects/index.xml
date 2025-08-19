@@ -6,6 +6,8 @@
     <description>Recent content in Projects on Layer Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sumedh.girish@gmail.com (Sumedh Girish)</managingEditor>
+    <webMaster>sumedh.girish@gmail.com (Sumedh Girish)</webMaster>
     <copyright>© 2025 Sumedh Girish</copyright>
     <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +15,10 @@
       <title>On Virtualizing Containers</title>
       <link>//localhost:1313/projects/virtualizing-containers/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      
+      <author>sumedh.girish@gmail.com (Sumedh Girish)</author>
       <guid>//localhost:1313/projects/virtualizing-containers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/virtualizing-containers/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/virtualizing-containers/featured.svg" />
     </item>
     
   </channel>

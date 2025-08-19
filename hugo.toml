@@ -1,7 +1,0 @@
-baseURL = 'https://sumedhgirish.github.io/'
-languageCode = 'en'
-title = 'Layer Zero'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
