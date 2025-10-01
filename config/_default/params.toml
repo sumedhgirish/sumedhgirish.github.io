@@ -37,12 +37,12 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
-showRecentItems = "0"
+showRecent = true
+showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/projects/"
 cardView = false
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
 homepageImage = "img/traffic.svg"
@@ -62,7 +62,7 @@ showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
-seriesOpened = true
+seriesOpened = false
 showHeadingAnchors = true
 showPagination = false
 invertPagination = false

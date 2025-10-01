@@ -2,6 +2,8 @@
 title: "On Virtualizing Containers"
 date: 2025-08-15
 draft: false
+series: ["Container Virtualization"]
+series_order: 1
 ---
 
 ## Abstract
